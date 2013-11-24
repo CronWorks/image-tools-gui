@@ -1,0 +1,11 @@
+Package: image-tools-gui
+Version: 2.4
+Section: cws
+Priority: optional
+Architecture: all
+Essential: no
+Depends: image-tools, py-base-gui
+Installed-Size: 1
+Maintainer: Luke Scott [luke at cronworks dot net]
+Provides: image-tools-gui
+Description: [cws] gui tweaks for the image-tools package

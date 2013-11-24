@@ -1,0 +1,5 @@
+#!/bin/sh
+chown root:root /usr/local/bin/all-star-gui
+chmod 755 /usr/local/bin/all-star-gui
+chown root:root /usr/local/bin/scale-image-gui
+chmod 755 /usr/local/bin/scale-image-gui

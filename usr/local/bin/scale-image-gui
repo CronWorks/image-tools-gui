@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+from image_tools_gui.ImageScalerGui import ImageScalerGui
+ImageScalerGui().run()
+
